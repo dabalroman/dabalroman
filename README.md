@@ -1,6 +1,6 @@
 # About Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romandabal)  
-I’m currently working on n8n AI workflows for intelligent CLI tasks automations.<br>
+I’m working on n8n AI workflows for intelligent CLI tasks automations.<br>
 I’m currently learning how to optimize code logic for time and processing power required.<br>
 Ask me about custom IOT devices and Homeassistant.<br>
 Fun fact - Mine first programming language was C++, back then I considered it preety easy!<br>
