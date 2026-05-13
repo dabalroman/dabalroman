@@ -1,9 +1,9 @@
 # Hello there, I am Roman
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romandabal)  
-I’m working on a Simple Project Manager MCP for Cluade code to better orchiestrate the project status. It can be compared to Jira-like software designed to be used primarly by agents.<br>
-I’m currently learning how to streamline react-zustand projects with AWS backend, to make them faster and more user-friendly<br>
-You can ask me about custom IOT devices and Homeassistant.<br>
-Fun fact - Mine first programming language was C++, back then I considered it preety easy!<br>
+I'm working on a Simple Project Manager MCP for Claude Code to better orchestrate the project status. It can be compared to Jira-like software designed to be used primarily by agents.<br>
+I'm currently learning how to streamline React-Zustand projects with an AWS backend to make them faster and more user-friendly.<br>
+You can ask me about custom IoT devices and Home Assistant.<br>
+Fun fact - My first programming language was C++, back then I considered it pretty easy!<br>
 
 I love designing, tinkering and 3D printing! Check out my [3D printing side-hustle](https://druktopia.pl/) (webpage available only in Polish). 
 
