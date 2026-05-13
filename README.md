@@ -1,7 +1,7 @@
 # Hello there, I am Roman
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romandabal)  
-I’m working on second version of my [Squash Scoreboard](https://github.com/dabalroman/squash-scoreboard-display-esp32) project, this time with matrix LED array and with support for much more sport disciplines.<br>
-I’m currently learning how to optimize code logic for time and processing power required via LeetCode problem solving.<br>
+I’m working on a Simple Project Manager MCP for Cluade code to better orchiestrate the project status. It can be compared to Jira-like software designed to be used primarly by agents.<br>
+I’m currently learning how to streamline react-zustand projects with AWS backend, to make them faster and more user-friendly<br>
 You can ask me about custom IOT devices and Homeassistant.<br>
 Fun fact - Mine first programming language was C++, back then I considered it preety easy!<br>
 
